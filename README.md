@@ -9,4 +9,7 @@ There is little room for improvement as the performance started to dip as more c
 ## How to Install and Run the Project
 
 1. Download the cell images using this [dropbox link](https://www.dropbox.com/scl/fi/hcu2c8tt3zq67vk6hfgqv/cell_images.zip?rlkey=5pupqjzed1jmzihxawbbxi42v&st=sn3395fv&dl=0).
-2. Use the Python code to run on your local machine. 
+2. Download the Python code Malaria_Detection_Models_Python.ipynb to run in Jupyter Notebook. You will need to have Jupyter Notebook to run the code.
+3. To puruse the problem statement and model results, see Malaria_Detection_Results.pdf and Presentation.pdf.
+
+
